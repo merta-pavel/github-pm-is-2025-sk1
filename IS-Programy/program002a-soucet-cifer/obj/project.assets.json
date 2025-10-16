@@ -8,24 +8,32 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
+    "C:\\Users\\pavel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS-2025\\github-tz-is-2025-sk1\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
       "projectName": "program002a-soucet-cifer",
-      "projectPath": "C:\\aaa\\IS-2025\\github-tz-is-2025-sk1\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
-      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\IS-2025\\github-tz-is-2025-sk1\\IS-Programy\\program002a-soucet-cifer\\obj\\",
+      "projectPath": "C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+      "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\IS-Programy\\program002a-soucet-cifer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

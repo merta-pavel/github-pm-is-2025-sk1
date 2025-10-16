@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5707D3B-67F9-908F-A3BD-D94EA64EDF42}|IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj|c:\\users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\is-programy\\program001-vypis-rady\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5707D3B-67F9-908F-A3BD-D94EA64EDF42}|IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj|solutionrelative:is-programy\\program001-vypis-rady\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\IS-Programy\\program002a-soucet-cifer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS-Programy\\program002a-soucet-cifer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\Program.cs",
-              "RelativeDocumentMoniker": "IS-Programy\\program001-vypis-rady\\Program.cs",
-              "ToolTip": "C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\Program.cs*",
-              "RelativeToolTip": "IS-Programy\\program001-vypis-rady\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAASwBsAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\IS-Programy\\program002a-soucet-cifer\\Program.cs",
+              "RelativeDocumentMoniker": "IS-Programy\\program002a-soucet-cifer\\Program.cs",
+              "ToolTip": "C:\\Users\\pavel\\source\\repos\\github-pm-is-2025-sk3\\IS-Programy\\program002a-soucet-cifer\\Program.cs",
+              "RelativeToolTip": "IS-Programy\\program002a-soucet-cifer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T13:42:09.378Z",
+              "WhenOpened": "2025-10-16T14:08:03.822Z",
               "EditorCaption": ""
             }
           ]
