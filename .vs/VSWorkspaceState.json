@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\IS-Programy",
-    "\\IS-Programy\\program000a-zakladni-kod"
+    "\\IS-Programy\\program000a-zakladni-kod",
+    "\\IS-Programy\\program001-vypis-rady"
   ],
-  "SelectedNode": "\\IS-Programy\\program000a-zakladni-kod\\Program.cs",
+  "SelectedNode": "\\IS-Programy\\program001-vypis-rady\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
