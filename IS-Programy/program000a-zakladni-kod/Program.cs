@@ -3,7 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("****************************");
-    Console.WriteLine("***** Výpis řady čísel *****");
+    Console.WriteLine("***** Název programu *****");
     Console.WriteLine("****************************");
     Console.WriteLine("******* Pavel Merta ********");
     Console.WriteLine("****************************");
@@ -14,12 +14,12 @@ while (again == "a")
     //int first = int.Parse(Console.ReadLine());
 
     //Vstup hodnoty do programu - řešený správně
-    Console.Write("Zadejte první číslo řady (celé číslo): ");
+    Console.Write("Zadejte hodnotu (celé číslo): ");
     int first;
 
     while (!int.TryParse(Console.ReadLine(), out first))
     {
-        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
+        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
     }
 
 

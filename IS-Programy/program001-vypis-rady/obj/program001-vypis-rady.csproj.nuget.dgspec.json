@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pavel\\OneDrive\\Plocha\\zkouška\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\pavel\\Source\\Repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pavel\\OneDrive\\Plocha\\zkouška\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\pavel\\Source\\Repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pavel\\OneDrive\\Plocha\\zkouška\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\pavel\\Source\\Repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\pavel\\OneDrive\\Plocha\\zkouška\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectPath": "C:\\Users\\pavel\\Source\\Repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pavel\\OneDrive\\Plocha\\zkouška\\IS-Programy\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\pavel\\Source\\Repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
