@@ -1,0 +1,15 @@
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.exe
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.deps.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.runtimeconfig.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.pdb
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.AssemblyInfo.cs
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.sourcelink.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\refint\program003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.pdb
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.genruntimeconfig.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\ref\program003b-nejvetsi-ze-tri-cisel.dll
