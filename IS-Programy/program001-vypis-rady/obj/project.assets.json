@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavel\\Source\\Repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "projectName": "program001-vypis-rady",
-      "projectPath": "C:\\Users\\pavel\\Source\\Repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectPath": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavel\\Source\\Repos\\github-pm-is-2025-sk3\\IS-Programy\\program001-vypis-rady\\obj\\",
+      "outputPath": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
