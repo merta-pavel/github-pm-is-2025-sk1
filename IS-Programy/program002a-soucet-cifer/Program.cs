@@ -48,5 +48,5 @@ while (again == "a")
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
-    again = Console.ReadLine();
+    again = Console.ReadLine() ?? "";
 }
