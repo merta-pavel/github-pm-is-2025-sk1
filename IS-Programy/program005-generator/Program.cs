@@ -40,16 +40,26 @@ while (again == "a")
 
 
     Console.WriteLine();
-    Console.WriteLine("==================================================");
+    Console.WriteLine("===================================================");
     Console.WriteLine("Zadané hodnoty:");
     Console.WriteLine("Počet čísel: {0}; Dolní mez: {1}; Horní mez: {2};", n, lowerBound, upperBound);
-    Console.WriteLine("==================================================");
+    Console.WriteLine("===================================================");
 
     //Deklarace pole
     int[] myRandNumbs = new int[n];
 
     //Random myRandNumb = new Random(50);
     Random myRandNumb = new Random();
+
+    //Záporná, kladná a nuly
+    int negativeNumbs = 0; //Záporná čísla
+    int positiveNumbs = 0; //Kladná čísla
+    int zeroNumbs = 0;     //Nuly
+
+    //Sudá a lichá
+    int evenNumbs = 0;     //Sudá čísla
+    int oddNumbs = 0;      //Lichá čísla
+
 
     Console.WriteLine();
     Console.WriteLine("===================================================");
@@ -59,7 +69,47 @@ while (again == "a")
     {
         myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound);
         Console.Write("{0}; ", myRandNumbs[i]);
+
+        if (myRandNumbs[i] < 0)
+        {
+            negativeNumbs++;
+        }
+        else if (myRandNumbs[i] > 0)
+        {
+            positiveNumbs++;
+        }
+        else
+        {
+            zeroNumbs++;
+        }
+
+        if (myRandNumbs[i] % 2 == 0)
+        {
+            evenNumbs++;
+        }
+        else
+        {
+            oddNumbs++;
+        }
     }
+
+    Console.WriteLine();
+    Console.WriteLine("===================================================");
+    Console.WriteLine("===================================================");
+
+    Console.WriteLine("Statistiky:");
+    Console.WriteLine("Záporná čísla: {0}", negativeNumbs);
+    Console.WriteLine("Kladná čísla: {0}", positiveNumbs);
+    Console.WriteLine("Nuly: {0}", zeroNumbs);
+
+    Console.WriteLine("===================================================");
+
+    Console.WriteLine("Sudá čísla: {0}", evenNumbs);
+    Console.WriteLine("Lichá čísla: {0}", oddNumbs);
+
+    Console.WriteLine("===================================================");
+    Console.WriteLine("===================================================");
+
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
