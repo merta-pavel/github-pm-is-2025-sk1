@@ -51,15 +51,6 @@ while (again == "a")
     //Random myRandNumb = new Random(50);
     Random myRandNumb = new Random();
 
-    //Záporná, kladná a nuly
-    int negativeNumbs = 0; //Záporná čísla
-    int positiveNumbs = 0; //Kladná čísla
-    int zeroNumbs = 0;     //Nuly
-
-    //Sudá a lichá
-    int evenNumbs = 0;     //Sudá čísla
-    int oddNumbs = 0;      //Lichá čísla
-
 
     Console.WriteLine();
     Console.WriteLine("===================================================");
@@ -70,48 +61,38 @@ while (again == "a")
         myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound);
         Console.Write("{0}; ", myRandNumbs[i]);
 
-        if (myRandNumbs[i] < 0)
-        {
-            negativeNumbs++;
-        }
-        else if (myRandNumbs[i] > 0)
-        {
-            positiveNumbs++;
-        }
-        else
-        {
-            zeroNumbs++;
-        }
+    }
 
-        if (myRandNumbs[i] % 2 == 0)
+    // Hlednání maxima, minima a jejich prvních pozic
+    int max = myRandNumbs[0]; // předpokládáme, že první prvek v poli je maximem
+    int min = myRandNumbs[0]; // předpokládáme, že první prvek v poli je minimem
+    int posMax = 0;           // pozice maxima
+    int posMin = 0;           // pozice minima
+    for (int i = 1; i < n; i++)
+    {
+        if (myRandNumbs[i] > max)
         {
-            evenNumbs++;
+            max = myRandNumbs[i];
+            posMax = i;
         }
-        else
+        if (myRandNumbs[i] < min)
         {
-            oddNumbs++;
+            min = myRandNumbs[i];
+            posMin = i;
         }
     }
 
     Console.WriteLine();
-    Console.WriteLine("===================================================");
-    Console.WriteLine("===================================================");
-
-    Console.WriteLine("Statistiky:");
-    Console.WriteLine("Záporná čísla: {0}", negativeNumbs);
-    Console.WriteLine("Kladná čísla: {0}", positiveNumbs);
-    Console.WriteLine("Nuly: {0}", zeroNumbs);
-
-    Console.WriteLine("===================================================");
-
-    Console.WriteLine("Sudá čísla: {0}", evenNumbs);
-    Console.WriteLine("Lichá čísla: {0}", oddNumbs);
-
-    Console.WriteLine("===================================================");
-    Console.WriteLine("===================================================");
+    Console.WriteLine("====================================================================");
+    Console.WriteLine($"Maximum: {max}");
+    Console.WriteLine($"Pozice prvního maxima: {posMax}");
+    Console.WriteLine($"Minimum: {min}");
+    Console.WriteLine($"Pozice prvního minima: {posMin}");
+    Console.WriteLine("====================================================================");
 
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
+
     again = Console.ReadLine();
 }
