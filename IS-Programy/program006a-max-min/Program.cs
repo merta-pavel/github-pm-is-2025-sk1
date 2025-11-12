@@ -89,7 +89,55 @@ while (again == "a")
     Console.WriteLine($"Minimum: {min}");
     Console.WriteLine($"Pozice prvního minima: {posMin}");
     Console.WriteLine("====================================================================");
+    Console.WriteLine();
 
+    //Vykreslení přesýpacích hodin
+    if (max >= 3)
+    {
+       for (int i = 0; i < max; i++)
+        {
+            int spaces, stars;
+            if (i < max / 2)
+            {
+                spaces = i;
+                //horní polovina - s každým dalším řádkem ubývají dvě hvězdičky
+                stars = max - (2 * i);
+            }
+            else
+            {
+                spaces = max - i - 1;
+                if (max % 2 == 1)
+                {
+                    //dolní polovina sudé maximum - s každým dalším řádkem přibývají dvě hvězdičky
+                    stars = 2 * (i - max / 2) + 1;
+                }
+                else
+                {
+                    //dolní polovina liché maximum - s každým dalším řádkem přibývají dvě hvězdičky
+                    stars = 2 * (i - max / 2) + 2;
+                }
+            }
+            Console.ForegroundColor = ConsoleColor.Red;
+            //Console.BackgroundColor = ConsoleColor.Red;
+            // sp - space
+            for (int sp = 0; sp < spaces; sp++)
+            {
+                Console.Write(" ");
+            }
+            
+            // st - star
+            for (int st = 0; st < stars; st++)
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+            Console.ResetColor();
+        }
+    }
+    else
+    {
+        Console.WriteLine($"Maximum je menší než 3.");
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
