@@ -3,7 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("*********************************************");
-    Console.WriteLine("***** Generátor pseudonáhodných čísel *******");
+    Console.WriteLine("*********** Bubble sort opposite ************");
     Console.WriteLine("*********************************************");
     Console.WriteLine("*************** Pavel Merta *****************");
     Console.WriteLine("*********************************************");
