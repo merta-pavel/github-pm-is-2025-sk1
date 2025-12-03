@@ -3,7 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("****************************");
-    Console.WriteLine("***** Název programu *******");
+    Console.WriteLine("******* Výpočet PI *********");
     Console.WriteLine("****************************");
     Console.WriteLine("******* Pavel Merta ********");
     Console.WriteLine("****************************");
@@ -15,13 +15,34 @@ while (again == "a")
 
     //Vstup hodnoty do programu - řešený správně
     Console.Write("Zadejte hodnotu (celé číslo): ");
-    int first;
+    double presnost;
 
-    while (!int.TryParse(Console.ReadLine(), out first))
+    while (!double.TryParse(Console.ReadLine(), out presnost))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
     }
 
+    double i = 1;
+    double piCtrvt = 1;
+    double znamenko = 1;
+
+    while ((1 / i) >= presnost)
+    {
+        i = i + 2;
+        znamenko = -znamenko;
+        piCtvrt = piCtvrt + znamenko * (1 / i);
+
+        if (znamenko == 1)
+        {
+            Console.WriteLine("Zlomek: +1/{0}; aktuální hodnota PI = {1}", i, 4 * piCtvrt);
+        }
+        else
+        {
+            Console.WriteLine("Zlomek: -1/{0}; aktuální hodnota PI = {1}", i, 4 * piCtvrt);
+        }
+    }
+
+    Console.WriteLine("\n\n Hodnota čísla PI = {0}", 4 * piCtvrt);
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
