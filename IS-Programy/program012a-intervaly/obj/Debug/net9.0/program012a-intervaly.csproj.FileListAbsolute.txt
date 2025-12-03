@@ -1,0 +1,15 @@
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.exe
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.deps.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.runtimeconfig.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.pdb
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.AssemblyInfo.cs
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.sourcelink.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\refint\program012a-intervaly.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.pdb
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.genruntimeconfig.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program012a-intervaly\obj\Debug\net9.0\ref\program012a-intervaly.dll

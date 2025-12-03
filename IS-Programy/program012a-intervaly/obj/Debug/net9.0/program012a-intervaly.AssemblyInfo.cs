@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program013-konvergentni-rady")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program012a-intervaly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75f7e9e949cc9093026993e048b2eacdea305361")]
-[assembly: System.Reflection.AssemblyProductAttribute("program013-konvergentni-rady")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program013-konvergentni-rady")]
+[assembly: System.Reflection.AssemblyProductAttribute("program012a-intervaly")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program012a-intervaly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
