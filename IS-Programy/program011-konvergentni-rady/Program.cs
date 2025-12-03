@@ -23,7 +23,7 @@ while (again == "a")
     }
 
     double i = 1;
-    double piCtrvt = 1;
+    double piCtvrt = 1;
     double znamenko = 1;
 
     while ((1 / i) >= presnost)

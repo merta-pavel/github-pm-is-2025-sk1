@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program013-konvergentni-rady")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d37ffdd48a4b7433e958e617938f1de48bc943")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abd381fd4338a1a220ba8d98ba64cbc4ae83ac0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("program013-konvergentni-rady")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program013-konvergentni-rady")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
