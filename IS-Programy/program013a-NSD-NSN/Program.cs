@@ -13,6 +13,24 @@ while (again == "a")
     ulong a = nactiCislo("Zadejte číslo a: ");
     ulong b = nactiCislo("Zadejte číslo b: ");
 
+    ulong NSD = spocitejNSD(a, b);
+    Console.WriteLine();
+    Console.WriteLine("==============================");
+    Console.WriteLine("NSD čísel {0} a {1} je: {2}", a, b, NSD);
+    Console.WriteLine("==============================");
+    Console.WriteLine();
+
+    ulong NSN = spocitejNSN(a, b, NSD);
+    Console.WriteLine();
+    Console.WriteLine("==============================");
+    Console.WriteLine("NSN čísel {0} a {1} je: {2}", a, b, NSN);
+    Console.WriteLine("==============================");
+    Console.WriteLine();
+
+    ZobrazitVysledky(a, b, NSD, NSN);
+
+
+
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
@@ -43,5 +61,36 @@ static ulong nactiCislo(string zprava)
 
     // !!! Metoda, která vrací nějaký konkrétní datový typ, musí obsahovat následující řádek
     return cislo;
+}
 
+static ulong spocitejNSD(ulong a, ulong b)
+{
+    while (a != b)
+    {
+        if (a > b)
+        {
+            a = a - b;
+        }
+        else
+        {
+            b = b - a;
+        }
+    }
+
+    return a;
+}
+
+static ulong spocitejNSN(ulong a, ulong b, ulong nsd)
+{
+    ulong nsn = (a * b) / nsd;
+    return nsn;
+}
+
+static void ZobrazitVysledky(ulong a, ulong b, ulong nsd, ulong nsn)
+{
+    Console.WriteLine("Výsledky výpočtu:");
+    Console.WriteLine("----------------");
+    Console.WriteLine("Zadaná čísla: a = {0}, b = {1}", a, b);
+    Console.WriteLine("Největší společný dělitel (NSD): {0}", nsd);
+    Console.WriteLine("Nejmenší společný násobek (NSN): {0}", nsn);
 }
