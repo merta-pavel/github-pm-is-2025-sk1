@@ -1,45 +1,47 @@
-﻿string again = "a";
+﻿
+/* Hlavní program - začátek */
+
+string again = "a";
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("****************************");
-    Console.WriteLine("***** Název programu *******");
-    Console.WriteLine("****************************");
-    Console.WriteLine("******* Pavel Merta ********");
-    Console.WriteLine("****************************");
-    Console.WriteLine();
 
-    // Vstup hodnoty do programu - špatně řešený
-    //Console.Write("Zadejte první číslo řady: ");
-    //int first = int.Parse(Console.ReadLine());
+    // Metoda pro razítko - hlavičku
+    razitko();
 
-    //Vstup hodnoty do programu - řešený správně
-    Console.Write("Zadejte hodnotu (celé číslo): ");
-    int a;
-
-    while (!int.TryParse(Console.ReadLine(), out a))
-    {
-        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
-    }
-
-    Console.Write("Zadejte hodnotu (celé číslo): ");
-    int b;
-
-    while (!int.TryParse(Console.ReadLine(), out b))
-    {
-        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
-    }
-
-
-
-
+    // Načítání hodnot
+    ulong a = nactiCislo("Zadejte číslo a: ");
+    ulong b = nactiCislo("Zadejte číslo b: ");
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
-
-
 }
 
+/* Hlavní program - konec */
 
+/* metoda která nic nevrací - nevrací hodnotu */
+static void razitko()
+{
+    Console.WriteLine("****************************");
+    Console.WriteLine("***** Výpočet NSD a NSN ****");
+    Console.WriteLine("****************************");
+    Console.WriteLine("******* Pavel Merta ********");
+    Console.WriteLine("****************************");
+    Console.WriteLine();
+}    
 
+/* metoda pro načtení čísel */
+static ulong nactiCislo(string zprava)
+{
+    Console.Write(zprava);
+    ulong cislo;
+    while (!ulong.TryParse(Console.ReadLine(), out cislo))
+    {
+        Console.Write("Nezadali jste přirozené číslo. Zadejte hodnotu znovu: ");
+    }
+
+    // !!! Metoda, která vrací nějaký konkrétní datový typ, musí obsahovat následující řádek
+    return cislo;
+
+}

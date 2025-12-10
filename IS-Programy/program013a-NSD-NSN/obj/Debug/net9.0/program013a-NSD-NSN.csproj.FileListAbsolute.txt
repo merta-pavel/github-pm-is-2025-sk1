@@ -1,0 +1,15 @@
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.exe
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.deps.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.runtimeconfig.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.pdb
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.AssemblyInfo.cs
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.sourcelink.json
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\refint\program013a-NSD-NSN.dll
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.pdb
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.genruntimeconfig.cache
+C:\Users\pavel\source\repos\Nová složka (25)\github-pm-is-2025-sk1\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\ref\program013a-NSD-NSN.dll
