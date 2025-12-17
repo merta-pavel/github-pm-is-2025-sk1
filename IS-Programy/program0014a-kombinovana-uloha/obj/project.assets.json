@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\program0014a-kombinovana-uloha\\program0014a-kombinovana-uloha.csproj",
+      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\IS-Programy\\program0014a-kombinovana-uloha\\program0014a-kombinovana-uloha.csproj",
       "projectName": "program0014a-kombinovana-uloha",
-      "projectPath": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\program0014a-kombinovana-uloha\\program0014a-kombinovana-uloha.csproj",
+      "projectPath": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\IS-Programy\\program0014a-kombinovana-uloha\\program0014a-kombinovana-uloha.csproj",
       "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\program0014a-kombinovana-uloha\\obj\\",
+      "outputPath": "C:\\Users\\pavel\\source\\repos\\Nová složka (25)\\github-pm-is-2025-sk1\\IS-Programy\\program0014a-kombinovana-uloha\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
